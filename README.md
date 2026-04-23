@@ -1,4 +1,5 @@
-# Planning de Staff pour les évenements étudiants
+# Projet INFO610 - Planning de Staff pour les évenements étudiants
+_BRUHAT Thomas - DUPRE Valentin - Groupe A2_
 
 On désire gérer par des moyens informatiques (python) le planning de staff d’un événement BDE.
 Pour un événement, il y a différents staff (ex: bar, sono, entrée …) et un certain nombre de staffeur.
@@ -25,7 +26,3 @@ En sortie:
 - veut staffer avec quelqu’un
 - ne veut pas staffer avec quelqu’un
 - dispo uniquement à certains créneaux
-
-
-
-kkhpouijpol
