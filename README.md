@@ -25,3 +25,7 @@ En sortie:
 - veut staffer avec quelqu’un
 - ne veut pas staffer avec quelqu’un
 - dispo uniquement à certains créneaux
+
+
+
+kkhpouijpol
